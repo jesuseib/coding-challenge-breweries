@@ -1,1 +1,1 @@
-curl -u guest@autocloud.dev:aut00cl0ud  -X GET -H 'Content-Type: application/json' http://localhost:3000/breweries
+curl -u guest@autocloud.dev:aut0cl0ud  -X GET -H 'Content-Type: application/json' http://localhost:3000/breweries
